@@ -6,6 +6,11 @@ This project was made using React by [SOPERDEV](https://www.soperdev.com).
 
 In the project directory, you can run:
 
+### Installation
+
+Clone this repo then run `npm install`
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
