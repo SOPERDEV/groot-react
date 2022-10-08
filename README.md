@@ -1,6 +1,14 @@
-# Getting Started with GRootJS
 
+#  Getting Started with GRootJS (v1.0.0) ![enter image description here](https://static.wixstatic.com/media/9e6a66_4303c9dd2c184029a0b6730c66edee85~mv2.png/v1/fill/w_271,h_327,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/g1-removebg-preview.png)
 This project was made using React by [SOPERDEV](https://www.soperdev.com).
+
+## New Features 
+
+ - With the integration of [Material UI](https://mui.com/)
+ - With moble app support
+ -  Flexibility with platforms
+ - Fully customizable
+ - Full Open source 
 
 ## Available Scripts
 
