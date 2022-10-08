@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App" style={{marginLeft:20}} >
       <div style={{ display: 'flex', flexDirection: 'row' }}>
-      <img src='./groot.png' style={{ height: 'auto',width:'40%', position: 'absolute', right: '0',zIndex:-1 }} />
+      <img src='./g1.png' style={{ height: 'auto',width:'40%', position: 'absolute', right: '0',zIndex:-1 }} />
         <h1 style={{ color: "#fff", fontSize: 55,color:"#01A420" }}>GRoot</h1>
         <h1 style={{ color: "#fff", fontSize: 55 }}>JS</h1>
         
@@ -12,6 +12,15 @@ function App() {
       </div>
       <div>
         <h2 style={{ color: '#FFF' }}>Build on top of React : A JavaScript Library</h2>
+        
+      </div>
+      <div style={{ backgroundColor: "#666666", opacity: 0.5,width:400}}>
+        <h2 style={{ color: '#FFF', opacity: 1, fontFamily: "monospace", }}>/*</h2>
+        <h2 style={{ color: '#FFF', opacity: 1, fontFamily: "monospace" }}># Fully flexible and customizable</h2>
+        <h2 style={{ color: '#FFF', opacity: 1, fontFamily: "monospace" }}># With the integration of Material UI</h2>
+        <h2 style={{ color: '#FFF', opacity: 1, fontFamily: "monospace" }}># With mobile app support</h2>
+        <h2 style={{ color: '#FFF', opacity: 1, fontFamily: "monospace" }}># Full Open source</h2>
+        <h2 style={{ color: '#FFF',opacity:1,fontFamily:"monospace" }}>*/</h2>
       </div>
       <div style={{ backgroundColor: "#666666", opacity: 0.5,width:400}}>
       <h2 style={{ color: '#FFF',opacity:1,fontFamily:"monospace", }}>/*</h2>
